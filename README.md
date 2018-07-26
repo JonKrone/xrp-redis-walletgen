@@ -1,3 +1,5 @@
+# This project has been migrated to another repo, please see: [xrp-worker-walletgen](https://github.com/JonKrone/xrp-worker-walletgen)
+
 # xrp-redis-walletgen
 
 XRP massive wallet generation with output formatted for mass input into redis
